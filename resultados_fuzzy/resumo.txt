@@ -1,0 +1,24 @@
+FUZZY C-MEANS | base Wholesale Customers | 440 clientes | c=2 | m=2.0 | J=1236.97 | iterações=25
+Silhueta (hard): 0.285 | PC: 0.646 | PE: 0.532 | XB: 0.533
+Clientes em fronteira (maior pertinência < 60%): 81 (18.4%)
+
+Centros (gasto anual típico, escala original):
+         Frescos  Laticínios  Mercearia  Congelados  Limpeza/Papel  Delicatessen
+Grupo 1     8072        1800       2398        1982            321           641
+Grupo 2     4862        6732       9789        1096           2991          1053
+
+Tamanho dos grupos (grupo dominante):
+Grupo 1    238
+Grupo 2    202
+
+Composição por Channel (1=Horeca, 2=Varejo), em % do grupo:
+Channel             1     2
+Grupo dominante            
+Grupo 1          98.3   1.7
+Grupo 2          31.7  68.3
+
+Composição por Region (1=Lisboa, 2=Porto, 3=Outra), em % do grupo:
+Region              1     2     3
+Grupo dominante                  
+Grupo 1          19.3  11.3  69.3
+Grupo 2          15.3   9.9  74.8
